@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Lucas i'm FrontEnd Developer Jr based in AR, constly learning about React&Native i'm interested in a future learn something about UI/UX
+### Hi there 👋 I'm Lucas i'm FrontEnd Developer Jr based in AR, constly learning about React & React Native.
 
 <!--
 **LMANMAI/LMANMAI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
