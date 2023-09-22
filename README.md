@@ -4,16 +4,15 @@
  🌱 I’m currently learning TypeScript and better practices on my code.
  
  ```
-{
+[
   "name": "Lucas",
   "code_skills": {
     "frontEnd_Skills": ["HTML", "CSS", "SASS", "JavaScript","React.js", "NEXT.js", "TypeScript"],
     "backEnd_Skills": ["Node.js", "Express", "Nest.js"],
     "database": ["MongoDB"],
     "misc": ["Firebase", "Postman"]
-  },
-  "twitter": "@lucasmanuel_18"
-}
+  }
+]
 ```
 <!--
 **LMANMAI/LMANMAI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
